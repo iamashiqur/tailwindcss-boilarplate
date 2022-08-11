@@ -558,50 +558,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.container {
-  width: 100%;
+.visible {
+  visibility: visible;
 }
 
-@media (min-width: 640px) {
-  .container {
-    max-width: 640px;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 768px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .container {
-    max-width: 1024px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
-  }
-}
-
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px;
-  }
-}
-
-.order-1 {
-  order: 1;
-}
-
-.order-3 {
-  order: 3;
-}
-
-.order-2 {
-  order: 2;
+.relative {
+  position: relative;
 }
 
 .mx-auto {
@@ -609,54 +571,91 @@ video {
   margin-right: auto;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
 
-.h-14 {
-  height: 3.5rem;
+.table {
+  display: table;
 }
 
-.w-14 {
-  width: 3.5rem;
+.contents {
+  display: contents;
 }
 
-.w-64 {
-  width: 16rem;
+.h-screen {
+  height: 100vh;
 }
 
-.w-32 {
-  width: 8rem;
+.h-10 {
+  height: 2.5rem;
 }
 
-.flex-none {
-  flex: none;
+.border-collapse {
+  border-collapse: collapse;
 }
 
-.flex-initial {
-  flex: 0 1 auto;
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
-.flex-1 {
-  flex: 1 1 0%;
+.resize {
+  resize: both;
 }
 
-.bg-red-500 {
+.content-center {
+  align-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.bg-green-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity));
 }
 
-.bg-green-500 {
+.bg-red-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(34 197 94 / var(--tw-bg-opacity));
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
-.bg-yellow-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+.p-5 {
+  padding: 1.25rem;
 }
 
-.bg-purple-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.font-black {
+  font-weight: 900;
+}
+
+.underline {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+}
+
+.outline {
+  outline-style: solid;
 }
