@@ -32,4 +32,4 @@ tailwind.config.js
 # For customize the theme check the `tailwind.config.js` and `src/input.css`
 
 ## Conclution
-**Giving start for further use this file**
+**Giving star for further use this file**
