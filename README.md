@@ -1,15 +1,35 @@
-## This tailwindcss boilerplate maintain using tailwindcss documentation you can follow this [Link](https://tailwindcss.com/docs/installation).
+![Thumbnail](https://i.postimg.cc/cJnMgV5t/Untitled-1.jpg)
+## TailwindCSS HTML Boilarpack
+## Table of content
+ 1. Folder structure
+ 2. How to use in your project
+ 3. Conclution
 
-- Tailwind Version v3.1.4
+## Folder structure
 
-## First Step
+asstes
+- - css
+- - fonts
+- - img
+- - js 
+ 
+dist
+ - - output.css
+src
+ - - input.css
+index.html
+package-lock.json
+package.json
+tailwind.config.js
 
-Clone this repo: `https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git`
+## How to use in your project
+**Clone this repo**`https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git`
 
-## Second Step
+# Open the files in you IDE/Code Editor and, open the terminal and run `npm install`
 
-Open the files in you IDE/Code Editor and, open the terminal and run `npm install`
+# Run this `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` code in your code terminal and edit `index.html` .
 
-# Final Step
+# For customize the theme check the `tailwind.config.js` and `src/input.css`
 
-Run this `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` code in you code terminal and open the `index.html` your browser.
+## Conclution
+**Giving start for further use this file**
