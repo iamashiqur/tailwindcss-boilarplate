@@ -23,11 +23,11 @@ package.json
 tailwind.config.js
 
 ## How to use in your project
-**Clone this repo**`https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git`
+**Clone this repo** `https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git`
 
-# Open the files in you IDE/Code Editor and, open the terminal and run `npm install`
+**Open the files in you IDE/Code Editor and, open the terminal and run** `npm install`
 
-# Run this `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` code in your code terminal and edit `index.html` .
+**Run this** `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` **code in your code terminal and edit** `index.html` .
 
 # For customize the theme check the `tailwind.config.js` and `src/input.css`
 
