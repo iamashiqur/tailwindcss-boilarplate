@@ -41,12 +41,8 @@
 **Open the files in your IDE/Code Editor and, Open the terminal and run** <br>
 `npm install`
 
-<br>
-
 **Open folder in your terminal and run** <br>
 `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
-
-<br>
 
 **Start code** <br>
 `index.html`
