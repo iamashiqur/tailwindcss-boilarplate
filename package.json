@@ -8,5 +8,8 @@
     "build": "tailwind build src/input.css -o dist/output.css"
   },
   "author": "Ashiqur Rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-notes-tree": "^1.12.0"
+  }
 }
