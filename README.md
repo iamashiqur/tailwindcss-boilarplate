@@ -38,13 +38,17 @@
 
 [Clone this repo](https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git)&nbsp;
 
-**Open the files in your IDE/Code Editor and, Open the terminal and run**
+**Open the files in your IDE/Code Editor and, Open the terminal and run** <br>
 `npm install`
 
-**Open folder in your terminal and run**
+<br>
+
+**Open folder in your terminal and run** <br>
 `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
 
-**Start code**
+<br>
+
+**Start code** <br>
 `index.html`
 
 ## FOR CUSTOMIZE THE THEME CHECK For customize the theme check the
