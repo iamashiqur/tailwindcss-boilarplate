@@ -9,19 +9,19 @@
 3.  Conclution
 
 ## FOLDER STRUCTURE
-├── asstes/
-│   ├── css
-│   ├── fonts
-│   ├── img
-│   └── js
-├── dist/
-│   └── output.css
-├── src/
-│   └── input.css
-├── index.html
-├── package-lock.json
-├── package.json
-└── tailwind.config.js
+asstes/
+├── css
+├── fonts
+├── img
+└── js
+dist/
+└── output.css
+src/
+└── input.css
+index.html
+package-lock.json
+package.json
+tailwind.config.js
 
 ## MINIMUM SOFTWARE REQUIREMENT BEFORE START:
 
