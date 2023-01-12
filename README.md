@@ -4,9 +4,10 @@
 
 ## TABLE OF CONTENT
 
-1.  Folder structure
-2.  How to use in your project
-3.  Conclution
+1.  FOLDER STRUCTURE
+2.  MINIMUM SOFTWARE REQUIREMENT
+3.  HOW TO USE IN YOUR PROJECT
+4.  FOR CUSTOMIZATION CHECK
 
 ## FOLDER STRUCTURE
 
@@ -47,7 +48,7 @@
 **Start code** <br>
 `index.html`
 
-## FOR CUSTOMIZE THE THEME CHECK For customize the theme check the
+## FOR CUSTOMIZATION CHECK
 
 - `tailwind.config.js`
 - `src/input.css`
