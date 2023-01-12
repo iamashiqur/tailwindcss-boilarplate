@@ -2,14 +2,9 @@
   "name": "tailwindcss3.0.2",
   "version": "1.0.0",
   "description": "",
-  "main": "tailwind.config.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tailwind build src/input.css -o dist/output.css"
-  },
   "author": "Ashiqur Rahman",
   "license": "ISC",
   "devDependencies": {
-    "markdown-notes-tree": "^1.12.0"
+    "tailwindcss": "^3.2.4"
   }
 }
